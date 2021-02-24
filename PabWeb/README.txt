@@ -1,4 +1,4 @@
-Contoh Proyek
+Keterangan Proyek
 
-- contoh 1
-- contoh 2
+System Req :
+- PHP
