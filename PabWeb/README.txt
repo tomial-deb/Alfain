@@ -1,5 +1,8 @@
 Keterangan Proyek
 
-System Req :
-- PHP
-- Mysql
+System Requirment :
+- php
+- MySQL
+- HTTP Apache
+- Redis
+- Python
